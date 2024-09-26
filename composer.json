@@ -1,5 +1,5 @@
 {
-    "name": "laravelcollective-html",
+    "name": "tecnobit/laravelcollective-html",
     "description": "HTML and Form Builders for the Laravel Framework",
     "license": "MIT",
     "require": {
