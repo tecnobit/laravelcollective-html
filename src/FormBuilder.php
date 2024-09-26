@@ -2,8 +2,6 @@
 
 namespace Collective\Html;
 
-use IlluminateFormBuilder;
-
 class FormBuilder extends IlluminateFormBuilder
 {
     /**
